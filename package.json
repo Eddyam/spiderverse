@@ -1,0 +1,23 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Practica 2 Diseño de software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/jest/bin/jest.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddyam/spiderverse.git"
+  },
+  "author": "Eddyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddyam/spiderverse/issues"
+  },
+  "homepage": "https://github.com/Eddyam/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
